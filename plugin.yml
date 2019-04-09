@@ -1,0 +1,9 @@
+name: Tibco Plugin
+description: Manage the deployment of Tibco BussinessWorks applications.
+version: 1.0
+icon: public/icon/tibco.svg
+url: https://github.com/clarive/cla-tibco-plugin
+requires:
+  - clarive_version: 6.8 <= version
+dependencies:
+  - cla-tibco-plugin
